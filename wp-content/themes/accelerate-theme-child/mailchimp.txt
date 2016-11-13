@@ -1,0 +1,9 @@
+<h2 style="text-align: left;">This is the Mail Chimp Campaign Contest</h2>
+<h4 style="text-align: left;">We have an exciting new offer for all our contestants</h4>
+<p style="text-align: left;">To collect on any of the offers in this contest, you first need to register on our site</p>
+
+<div style="text-align: right;"><a href="http://csmith127.wpengine.com/wp-content/uploads/2016/11/mc-thumbnail-1.png"><img class="alignright size-medium wp-image-47336" src="http://csmith127.wpengine.com/wp-content/uploads/2016/11/mc-thumbnail-1-300x221.png" alt="Mailchimp Graph" width="300" height="221" /></a></div>
+&nbsp;
+<div style="text-align: right;"><a href="http://csmith127.wpengine.com/wp-content/uploads/2016/11/mc-thumbnail-2-e1478217969444.png"><img class="alignright size-medium wp-image-47337" src="http://csmith127.wpengine.com/wp-content/uploads/2016/11/mc-thumbnail-2-223x300.png" alt="mc-thumbnail-2" width="300" height="400" /></a></div>
+&nbsp;
+<div style="text-align: right;"><a href="http://csmith127.wpengine.com/wp-content/uploads/2016/11/mc-thumbnail-3.png"><img class="alignright size-medium wp-image-47338" src="http://csmith127.wpengine.com/wp-content/uploads/2016/11/mc-thumbnail-3-150x300.png" alt="mc-thumbnail-3" width="300" height="300" /></a></div>
